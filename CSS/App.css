@@ -1,0 +1,23 @@
+body {
+	background-color: gray;
+}
+
+p {
+	text-align: justify;
+}
+
+figure {
+	border: 1px solid black;
+	width: 300px; 
+	padding: 40px;
+	margin: 20px;
+}
+
+img {
+	width: inherit;
+}
+
+figcaption {
+	font-style: italic; 
+	text-align: center;
+}
